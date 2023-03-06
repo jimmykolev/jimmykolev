@@ -10,6 +10,8 @@
 - Java
 - JavaScript
 - React
-- Haskell (Learning)
 - SQL
 - PHP
+## Learning
+- Haskell (University)
+- Rust (On the side)
