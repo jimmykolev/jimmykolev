@@ -3,7 +3,7 @@
 ## About Me
 - I'm 19, currently living in **London and Canterbury**
 - I study **Computer Science** at The University of Kent
-- Not working on any projects right now, everything on my GitHub is old
+- Currently working on a trading card game for discord using Discord.js, stay tuned
 
 ## Tools
 - Visual Studio Code
