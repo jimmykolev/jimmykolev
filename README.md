@@ -1,18 +1,36 @@
-### Hi 👋, I'm Jimmy
+### Hi there 👋
+* 👂 My name is Jimmy
+* 🏠 I'm 20, currently living in **London and Canterbury** 
+* 🔭 I’m currently working on Attribute Atlas
+* 🎓 I study **Computer Science** at The University of Kent
+* 🧑‍💻 Last project released, [PiecePedia](https://piecepedia.vercel.app)
 
-## About Me
-- I'm 19, currently living in **London and Canterbury**
-- I study **Computer Science** at The University of Kent
-- [PiecePedia Project Released](https://piecepedia.vercel.app)
-- Now Focusing on University Projects
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>    
+</p>
 
-## Tools
-- Visual Studio Code
-- Java
-- JavaScript
-- React
-- SQL
-- Python
-- MongoDB
-- TypeScript
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmykolev)
+
+## Attribute Atlas
+- A wordle type game, where your goal is to correctly identify the mystery country using a series of clues provided in five different categories: Geographical Features, Cultural Traditions, Historical Events, Economic Indicators, and Political Structure.
+- Three.js, Next.js, NextAuth, TypeScript, MongoDB
+### New Features
+- Authentication using NextAuth, GitHub and Magic Link
+- Logging Game History
+- Winning streaks!
+- Customise Profile
+
+
+  
 
