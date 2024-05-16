@@ -30,6 +30,8 @@
 - Logging Game History
 - Winning streaks!
 - Customise Profile
+## Example
+<img src="https://i.imgur.com/A1mzz8K.png" alt="example" width="450"/>   
 
 
   
