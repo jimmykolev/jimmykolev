@@ -3,7 +3,7 @@
 * 🏠 I'm 20, currently living in **London and Canterbury** 
 * 🔭 I’m currently working on Attribute Atlas
 * 🎓 I study **Computer Science** at The University of Kent
-* 🧑‍💻 Last project released, [PiecePedia](https://piecepedia.vercel.app)
+* 🧑‍💻 Last project released, [Attribute Atlas](https://attribute-atlas.vercel.app)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
