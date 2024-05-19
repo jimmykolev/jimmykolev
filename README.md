@@ -29,9 +29,17 @@
 - Authentication using NextAuth, GitHub and Magic Link
 - Logging Game History
 - Winning streaks!
-- Customise Profile
+- Leaderboards
+- Public Profiles
+- Full Profile Customisation
 ## Example
-<img src="https://i.imgur.com/A1mzz8K.png" alt="example" width="450"/>   
+<img src="https://i.imgur.com/A1mzz8K.png" alt="example" width="450"/>  
+<img src="https://i.imgur.com/1V30y39.png" alt="example" width="450"/>  
+<img src="https://i.imgur.com/m8xAs4r.png" alt="example" width="450"/>  
+
+
+
+
 
 
   
